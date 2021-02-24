@@ -2,3 +2,4 @@ In this programming assignment you will optimize a simple tracking system using 
 The same method can be used for more complex systems optimization.
 
 Follow the instructions in **tracker.ipynb** notebook.
+
