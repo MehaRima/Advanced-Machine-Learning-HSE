@@ -1,6 +1,6 @@
 # Chatbot project
 
-This folder contains the starting code for the chatbot project.
+This folder contains all the starter code for the chatbot project.
 
 ## Troubleshooting
 
